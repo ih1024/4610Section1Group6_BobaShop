@@ -2,3 +2,4 @@
 A collaborative repo for Group 6's project
 
 Jay Tran 
+![Uploading image.png…]()
