@@ -17,27 +17,28 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 
 
 # Entities 
-Customers
-Menu Items 
-Orders
-Drinks  
-Food 
-Drink_Customizations
-Loyalty
-Payments
-Employee
+1. Customers
+2. Menu Items
+3. Orders
+4. Drinks
+5. Food
+6. Drink_Customizations
+7. Loyalty
+8. Payments
+9. Employee
+10. Tapioca Chews
 
 
 # Relationships (everything non-identifying):
-Customers to Orders 1:M 
-Customers to Loyalty Account 1:1
-Orders to Menu Items M:M (order items is associative entity) 
-Menu Items to Drinks 1:M 
-Menu Items to Food 1:M 
-Drinks to drink_Customizations 1:M
-Orders to Payments 1:M
-Employee to Order 1:M
-Suppliers to Menu items 1:M
+1. Customers to Orders 1:M
+2. Customers to Loyalty Account 1:1
+3. Orders to Menu Items M:M (order items is associative entity)
+4. Menu Items to Drinks 1:M
+5. Menu Items to Food 1:M
+6. Drinks to drink_Customizations 1:M
+7. Orders to Payments 1:M
+8. Employee to Order 1:M
+9. Suppliers to Menu items 1:M
 
 # DATA MODEL GOES HERE 
 
