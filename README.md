@@ -29,7 +29,9 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 
 
 # Data Model 
+Explanation of Data Model
 ![Data_Model_Link](image_2025-10-23_144810368.png)
+
 # Data Dictionary
 
 # SQL Queries 
