@@ -1,8 +1,7 @@
-# 4610Section1Group6_BobaShop
-A collaborative repo for Group 6's project
+# Group 6 MIST 4610 Group Project 1
 
 # Team Name
-Tapioca Chews 
+59925_GroupProject1 - Tapioca Chews 
 
 # Team Members 
 1. Jay Tran
