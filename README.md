@@ -28,17 +28,6 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 10. Tapioca Chews
 
 
-# Relationships (everything non-identifying):
-1. Customers to Orders 1:M
-2. Customers to Loyalty Account 1:1
-3. Orders to Menu Items M:M (order items is associative entity)
-4. Menu Items to Drinks 1:M
-5. Menu Items to Food 1:M
-6. Drinks to drink_Customizations 1:M
-7. Orders to Payments 1:M
-8. Employee to Order 1:M
-9. Suppliers to Menu items 1:M
-
 # Data Model 
 
 # Data Dictionary
