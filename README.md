@@ -30,7 +30,6 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 Explanation of Data Model: 
 ![Data_Model_Link](relationshipModel.png)
 
-# Data Dictionary
 
 # SQL Queries 
 1. List all customer names and total amount they have spent (simple)
@@ -45,7 +44,7 @@ Explanation of Data Model:
 10. Revenue contribution by category (complex)
 11. List number of employees managed by each managed if any
 
-Tables:
+# Data Dictionary
 Customer:
 ![Customer Table](customerTable.png)
 Drink Customization:
