@@ -9,41 +9,15 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 
 Entities: 
 Customers
-First name 
-Last name 
-Phone
-email
 Menu Items 
-Drinks
-Food 
 Orders
-Customer 
-Employee 
-Order time stamp 
-Drinks 
-drinkCategory
-Milk Tea
-Fruit Tea 
+Drinks  
 Food 
-Desserts 
-Appetizers 
 Drink_Customizations
-Topping
-Price add-ons (toppings, sugar, ice)
 Loyalty
-Points balance 
-Date enrolled 
 Payments
-Date
-Type (Cash/Card)
-Paid
 Employee
-fName
-lName
-Phone
-Address
-Date starting
-Pay rate
+
 
 Relationships (everything non-identifying):
 Customers to Orders 1:M 
