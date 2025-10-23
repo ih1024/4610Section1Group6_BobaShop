@@ -40,7 +40,9 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 8. Employee to Order 1:M
 9. Suppliers to Menu items 1:M
 
-# DATA MODEL GOES HERE 
+# Data Model 
+
+# Data Dictionary
 
 # SQL Queries 
 1. List all customer names and total amount they have spent (simple)
@@ -55,7 +57,6 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 10. Revenue contribution by category (complex)
 11. List number of employees managed by each managed if any
 
-# Data Dictionary 
 
 
 
