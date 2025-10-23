@@ -1,5 +1,59 @@
 # 4610Section1Group6_BobaShop
 A collaborative repo for Group 6's project
 
-Jay Tran 
-![Uploading image.png…]()
+Scenario Tapioca Chews
+Background:
+Tapioca Chews is a small but growing bubble tea shop located in downtown Athens. They’ve recently expanded their operations, adding online ordering, new fruit tea drinks, and new employees. Up to now they’ve been keeping track of orders and inventory using spreadsheets, but as the business grows, it’s becoming hard to manage efficiently and as questions arise such as order questions it is hard to answer. To modernize their operations, the owners want us to create an SQL database that stores and tracks all the key information about their business.
+Since there is only one store location for Tapioca Chews, the owner wants to keep track of customers, menu items, orders, drinks, food, drink customizations, loyalty, payments, employees, and suppliers. More specifically, for customers, we want their first name, last name, phone, and email. For menu items we want drinks and food. For orders, we want to store the customer involved, the employee involved, and the time the interaction took place. As a small boba shop, we only have 2 bases: milk tea and fruit tea. We also offer food in two categories: dessert and appetizers. Tapioca Chews also offers add-ons for various prices. To encourage customer returns, we have started a rewards program and will need to track a customer’s points balance and the date they enrolled in the loyalty program. With that being said, we also need to collect information about payments made, such as the date, the payment type, and whether the amount was paid in full. In order to run Tapioca Chews, we need employees and we want to track employee first name, last name, phone, address, date starting, pay rate. 
+
+
+Entities: 
+Customers
+First name 
+Last name 
+Phone
+email
+Menu Items 
+Drinks
+Food 
+Orders
+Customer 
+Employee 
+Order time stamp 
+Drinks 
+drinkCategory
+Milk Tea
+Fruit Tea 
+Food 
+Desserts 
+Appetizers 
+Drink_Customizations
+Topping
+Price add-ons (toppings, sugar, ice)
+Loyalty
+Points balance 
+Date enrolled 
+Payments
+Date
+Type (Cash/Card)
+Paid
+Employee
+fName
+lName
+Phone
+Address
+Date starting
+Pay rate
+
+Relationships (everything non-identifying):
+Customers to Orders 1:M 
+Customers to Loyalty Account 1:1
+Orders to Menu Items M:M (order items is associative entity) 
+Menu Items to Drinks 1:M 
+Menu Items to Food 1:M 
+Drinks to drink_Customizations 1:M
+Orders to Payments 1:M
+Employee to Order 1:M
+Suppliers to Menu items 1:M
+
+
