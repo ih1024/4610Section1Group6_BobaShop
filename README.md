@@ -1,5 +1,3 @@
-# Group 6 MIST 4610 Group Project 1
-
 # Team Name
 59925_GroupProject1 - Tapioca Chews 
 
@@ -30,7 +28,7 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 
 # Data Model 
 Explanation of Data Model: 
-![Data_Model_Link](image_2025-10-23_144810368.png)
+![Data_Model_Link](relationshipModel.png)
 
 # Data Dictionary
 
@@ -47,7 +45,22 @@ Explanation of Data Model:
 10. Revenue contribution by category (complex)
 11. List number of employees managed by each managed if any
 
-
-
-
-
+Tables:
+Customer:
+![Customer Table](customerTable.png)
+Drink Customization:
+![Drink Customization Table](drinkCustomizationTable.png)
+Drinks:
+![Drinks Table](drinksTable.png)
+Employee:
+![Employee Table](employeeTable.png)
+Food:
+![Food Table](foodTable.png)
+Loyalty:
+![Loyalty Table](loyaltyTable.png)
+Order Lineitem:
+![Order Lineitem Table](orderLineitemTable.png)
+Orders:
+![Orders Table](ordersTable.png)
+Payments:
+![Payments Table](paymentsTable.png)
