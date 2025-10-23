@@ -1,7 +1,15 @@
 # 4610Section1Group6_BobaShop
 A collaborative repo for Group 6's project
-Team Name: Tapioca Chews 
-Members: Jay Tran, Sulema Gonzalez, Iris Huang, Abby Simmavanh, Julia Tardy
+
+# Team Name
+Tapioca Chews 
+
+# Team Members 
+1. Jay Tran
+2. Sulema Gonzalez
+3. Iris Huang,
+4. Abby Simmavanh
+5. Julia Tardy
 
 Scenario:
 Tapioca Chews is a small but growing bubble tea shop located in downtown Athens. They’ve recently expanded their operations, adding online ordering, new fruit tea drinks, and new employees. Up to now they’ve been keeping track of orders and inventory using spreadsheets, but as the business grows, it’s becoming hard to manage efficiently and as questions arise such as order questions it is hard to answer. To modernize their operations, the owners want us to create an SQL database that stores and tracks all the key information about their business.
