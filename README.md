@@ -42,7 +42,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 
 # SQL Queries 
 1. List number of employees managed by each managed if any (simple)
-2. Drinks listed by most to least popular (simple)
+2. Drinks listed by most to least popular (simple) ![Query 2](Query 2.png)
 3. Average amount spent per order (simple)
 4. Total revenue by payment type (simple)
 5. Toppings listed by most to least popular (complex)
