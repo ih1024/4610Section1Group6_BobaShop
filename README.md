@@ -54,21 +54,23 @@ At the end of the order, we expect payments, which lead to the creation of the P
 11. List number of employees managed by each managed if any
 
 # Data Dictionary
-Customer:
+1. Customer:
 ![Customer Table](customerTable.png)
-Drink Customization:
+2. Drink Customization:
 ![Drink Customization Table](drinkCustomizationTable.png)
-Drinks:
+3. Drinks:
 ![Drinks Table](drinksTable.png)
-Employee:
+4. Employee:
 ![Employee Table](employeeTable.png)
-Food:
+5. Food:
 ![Food Table](foodTable.png)
-Loyalty:
+6. Loyalty:
 ![Loyalty Table](loyaltyTable.png)
-Order Lineitem:
+7. Order Lineitem:
 ![Order Lineitem Table](orderLineitemTable.png)
-Orders:
+8. Orders:
 ![Orders Table](ordersTable.png)
-Payments:
+9. Payments:
 ![Payments Table](paymentsTable.png)
+
+# Data Base Information 
