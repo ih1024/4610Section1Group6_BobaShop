@@ -41,7 +41,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 
 
 # SQL Queries 
-1. List all customer names and total amount they have spent (simple)
+1. List number of employees managed by each managed if any (simple)
 2. Drinks listed by most to least popular (simple)
 3. Average amount spent per order (simple)
 4. Total revenue by payment type (simple)
@@ -51,7 +51,6 @@ At the end of the order, we expect payments, which lead to the creation of the P
 8. List the customer name and the number of orders they have made where the amount on the total order was greater than the average total for all customers. (complex)
 9. Percentage of customers participating in the loyalty program vs. not participating (complex)
 10. Revenue contribution by category (complex)
-11. List number of employees managed by each managed if any
 
 # Data Dictionary
 1. Customer:
