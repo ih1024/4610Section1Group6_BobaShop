@@ -50,7 +50,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 7. List the Employee of the month for each month (most orders) (complex)
 8. List the customer names and amounts whose average order amount is above the overall average amount(complex)
 9. Percentage of customers participating in the loyalty program vs. not participating (complex) ![Query9](Query9.jpg)
-10. Revenue contribution by drink category (complex) ![Query10}(Query10.jpg)
+10. Revenue contribution by drink category (complex) ![Query10](Query10.jpg)
 
 # Data Dictionary
 1. Customer:
