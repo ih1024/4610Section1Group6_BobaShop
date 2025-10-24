@@ -53,7 +53,7 @@ Query 5 returns which topping is currently being ordered the most and the least 
 6. List the top customer by total spending (complex) ![Query 6](Query6) 
 Query 6 allows us to see who our top customers are by measurement of total amount of money spent at Tapioca Chews so we can potentially make note of that and when they come in provide them with a reward or build a stronger relationship with them so that through word of mouth we can grow. 
 7. List the Employee of the month for each month (most orders) (complex)
-8. List the customer names and amounts whose average order amount is above the overall average amount(complex)
+8. List the customer names and amounts whose average order amount is above the overall average amount(complex) ![Query 8](Query8.png)
 9. Percentage of customers participating in the loyalty program vs. not participating (complex) ![Query9](Query9.jpg)
 10. Revenue contribution by drink category (complex) ![Query10](Query10.jpg)
 
