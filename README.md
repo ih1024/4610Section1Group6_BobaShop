@@ -75,4 +75,4 @@ At the end of the order, we expect payments, which lead to the creation of the P
 # Data Base Information 
 ns_F25MIST4610_59925_Group6
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Qx;
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_QX();
