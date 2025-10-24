@@ -48,7 +48,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 5. Toppings listed by most to least popular (complex)
 6. Top customer by total spending (complex)
 7. List the Employee of the month for each month (most orders) (complex)
-8. List the customer name and the number of orders they have made where the amount on the total order was greater than the average total for all customers. (complex)
+8. List the customer names and amounts whose average order amount is above the overall average amount(complex)
 9. Percentage of customers participating in the loyalty program vs. not participating (complex)
 10. Revenue contribution by category (complex)
 
