@@ -46,7 +46,7 @@ Query 1 lets the owners see the performance of their managers and how much reven
 2. List Drinks in order of most to least popular (simple) ![Query 2](Query2.png) 
 Query 2 allows the owners of Tapioca Chews to see our most ordered drink so we can plan accordingly for our order, such as ordering in correct increments, ordering less of one flavor and more of another. 
 3. List the average amount spent per order (simple)
-4. TList the total revenue by payment type (simple)
+4. List the total revenue by payment type (simple) ![Query 4](Query4.png)
 5. List the toppings ordered by most to least popular (complex) ![Query 5](Query5.png) 
 Query 5 returns which topping is currently being ordered the most and the least to detirmine which topping they need to order more or less of.
 6. List the top customer by total spending (complex) ![Query 6](Query6) 
