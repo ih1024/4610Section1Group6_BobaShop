@@ -46,7 +46,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 3. Average amount spent per order (simple)
 4. Total revenue by payment type (simple)
 5. Toppings listed by most to least popular (complex)
-6. Top customer by total spending (complex) ![Query 6](Query6) Query 6 allows us to see who our top customers are so we can potentially make note of that and when they come in provide them with a reward or build a stronger relationship with them so that through word of mouth we can grow. 
+6. Top customer by total spending (complex) ![Query 6](Query6) Query 6 allows us to see who our top customers are by measurement of total amount of money spent at Tapioca Chews so we can potentially make note of that and when they come in provide them with a reward or build a stronger relationship with them so that through word of mouth we can grow. 
 7. List the Employee of the month for each month (most orders) (complex)
 8. List the customer names and amounts whose average order amount is above the overall average amount(complex)
 9. Percentage of customers participating in the loyalty program vs. not participating (complex)
