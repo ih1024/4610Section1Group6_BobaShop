@@ -46,7 +46,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 3. Average amount spent per order (simple)
 4. Total revenue by payment type (simple)
 5. Toppings listed by most to least popular (complex)
-6. Top customer by total spending (complex) ![Query 6](Query6.png)
+6. Top customer by total spending (complex) ![Query 6](Query6)
 7. List the Employee of the month for each month (most orders) (complex)
 8. List the customer names and amounts whose average order amount is above the overall average amount(complex)
 9. Percentage of customers participating in the loyalty program vs. not participating (complex)
