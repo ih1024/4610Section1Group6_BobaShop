@@ -23,7 +23,7 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 7. Loyalty
 8. Payments
 9. Employee
-10. Tapioca Chews
+10. Tapioca_Chews
 
 
 # Data Model 
@@ -50,6 +50,7 @@ Query 1 lets the owners see the performance of their managers and how much reven
 Query 2 allows the owners of Tapioca Chews to see our most ordered drink so we can plan accordingly for our order, such as ordering in correct increments, ordering less of one flavor and more of another. 
 
 3. List the average amount spent per order (simple) ![Query 3](Query3.png)
+
 Query 3 allows the owners to see the average amount spent per order so they can have a better understanding of customer spending habits and plan accordingly. For example, if customers are spending more than usual, they can plan to have more ingredients in stock. If customers are spending less than usual, they can decide if they want to offer promotions and deals to encourage them to place larger orders.
 
 4. List the total revenue by payment type (simple) ![Query 4](Query4.png)
