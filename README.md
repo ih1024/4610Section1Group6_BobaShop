@@ -59,6 +59,7 @@ Query 7 allows the owners to see which employees are taking the most orders, sor
 8. List the customer names and amounts whose average order amount is above the overall average amount(complex) ![Query 8](Query8.png)
 Query 8 lists the customers whose average order amount is greater than the overall average amount across all orders. This helps the manager establish which customers are spending above average. With this information, they could cater to those specific customers by offering more loyalty points, discounts, or deals to keep them engaged.  
 9. Percentage of customers participating in the loyalty program vs. not participating (complex) ![Query9](Query9.jpg)
+Query 9 shows the total number of customers that have been to Tapioca Chews, the percentage who are part of the loyalty program, and the percentage of those who aren’t. From a managerial perspective, this helps evaluate how effective the loyalty program is for customers. Since we have a low percentage for those in the loyalty program, the manager might look for ways to promote and improve this program so that more customers are encouraged to join.
 10. Revenue contribution by drink category (complex) ![Query10](Query10.jpg)
 Query 10 lists out the drinks by their category, the total amount they have earned for the shop, and the percentage that amount is to the overall revenue of Tapioca Chews. This query is important as it allows the owners to identify the most popular drinks to better prepare their inventory for the future.
 # Data Dictionary
