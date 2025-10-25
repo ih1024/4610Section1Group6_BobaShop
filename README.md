@@ -47,6 +47,7 @@ Query 1 lets the owners see the performance of their managers and how much reven
 2. List Drinks in order of most to least popular (simple) ![Query 2](Query2.png) 
 Query 2 allows the owners of Tapioca Chews to see our most ordered drink so we can plan accordingly for our order, such as ordering in correct increments, ordering less of one flavor and more of another. 
 3. List the average amount spent per order (simple) ![Query 3](Query3.png)
+Query 3 allows the owners of Tapioca Chews to see the average amount spent per order so we can have a better understanding of customer spending habits, plan pricing strategies, and manage inventory. For example, if customers are spending more than usual, we can prepare by having more ingredients on hand. If customers are spending less than usual, we can decide if we want to offer targeted promotions to encourage larger orders.
 4. List the total revenue by payment type (simple) ![Query 4](Query4.png)
 Query 4 calculates the total amount of revenue generated for each payment type (cash and credit). It helps identify which payment methods are most popular with customers and contribute the most to overall sales. Understanding these patterns allows the store manager to see customer preferences and make decisions about which payment options to focus on or improve.  
 5. List the toppings ordered by most to least popular (complex) ![Query 5](Query5.png) 
@@ -54,6 +55,7 @@ Query 5 returns which topping is currently being ordered the most and the least 
 6. List the top customer by total spending (complex) ![Query 6](Query6) 
 Query 6 allows us to see who our top customers are by measurement of total amount of money spent at Tapioca Chews so we can potentially make note of that and when they come in provide them with a reward or build a stronger relationship with them so that through word of mouth we can grow. 
 7. List the employees who have taken the most to least orders, if employees have the same number of orders, have employees be sorted furthur from most to least revenue (complex) ![Query 7](Query7.png)
+Query 7 allows the owners to see which employees are taking the most orders, sorted from most to least, and if tied, by total revenue. This helps the owners identify top-performing staff, plan scheduling, and assign busy shifts to employees who handle high order volumes efficiently. It also highlights the employees who generate the most revenue, which could help with future training of new employees.
 8. List the customer names and amounts whose average order amount is above the overall average amount(complex) ![Query 8](Query8.png)
 Query 8 lists the customers whose average order amount is greater than the overall average amount across all orders. This helps the manager establish which customers are spending above average. With this information, they could cater to those specific customers by offering more loyalty points, discounts, or deals to keep them engaged.  
 9. Percentage of customers participating in the loyalty program vs. not participating (complex) ![Query9](Query9.jpg)
