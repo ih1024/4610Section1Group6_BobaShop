@@ -45,7 +45,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 Query 1 lets the owners see the performance of their managers and how much revenue their team has generated over a lifetime.
 2. List Drinks in order of most to least popular (simple) ![Query 2](Query2.png) 
 Query 2 allows the owners of Tapioca Chews to see our most ordered drink so we can plan accordingly for our order, such as ordering in correct increments, ordering less of one flavor and more of another. 
-3. List the average amount spent per order (simple)
+3. List the average amount spent per order (simple) ![Query 3](Query3.png)
 4. List the total revenue by payment type (simple) ![Query 4](Query4.png)
 Query 4 calculates the total amount of revenue generated for each payment type (cash and credit). It helps identify which payment methods are most popular with customers and contribute the most to overall sales. Understanding these patterns allows the store manager to see customer preferences and make decisions about which payment options to focus on or improve.  
 5. List the toppings ordered by most to least popular (complex) ![Query 5](Query5.png) 
