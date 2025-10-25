@@ -45,23 +45,32 @@ At the end of the order, we expect payments, which lead to the creation of the P
 1. List number of employees under each manager and how much revenue they generated (complex) ![Query 1](Query1.png) 
 
 Query 1 lets the owners see the performance of their managers and how much revenue their team has generated over a lifetime.
+
 2. List Drinks in order of most to least popular (simple) ![Query 2](Query2.png) 
 Query 2 allows the owners of Tapioca Chews to see our most ordered drink so we can plan accordingly for our order, such as ordering in correct increments, ordering less of one flavor and more of another. 
+
 3. List the average amount spent per order (simple) ![Query 3](Query3.png)
 Query 3 allows the owners to see the average amount spent per order so they can have a better understanding of customer spending habits and plan accordingly. For example, if customers are spending more than usual, they can plan to have more ingredients in stock. If customers are spending less than usual, they can decide if they want to offer promotions and deals to encourage them to place larger orders.
+
 4. List the total revenue by payment type (simple) ![Query 4](Query4.png)
 Query 4 calculates the total amount of revenue generated for each payment type (cash and credit). It helps identify which payment methods are most popular with customers and contribute the most to overall sales. Understanding these patterns allows the store manager to see customer preferences and make decisions about which payment options to focus on or improve.  
+
 5. List the toppings ordered by most to least popular (complex) ![Query 5](Query5.png) 
 
 Query 5 returns which topping is currently being ordered the most and the least to determine which topping they need to order more or less of.
+
 6. List the top customer by total spending (complex) ![Query 6](Query6) 
 Query 6 allows us to see who our top customers are by measurement of total amount of money spent at Tapioca Chews so we can potentially make note of that and when they come in provide them with a reward or build a stronger relationship with them so that through word of mouth we can grow. 
+
 7. List the employees who have taken the most to least orders, if employees have the same number of orders, have employees be sorted further from most to least revenue (complex) ![Query 7](Query7.png)
 Query 7 allows the owners to see which employees are taking the most orders, sorted from most to least, and if tied, by their total revenue most to least. This helps the owners identify top-performing employees and plan work schedules as they can assign busy shifts to employees who can handle high order volumes well. It also allows the owners to identify the employees who generate the most revenue for the shop, which could help with the future training of new employees as they can see how the top employees encourage customers to spend more.
+
 8. List the customer names and amounts whose average order amount is above the overall average amount(complex) ![Query 8](Query8.png)
 Query 8 lists the customers whose average order amount is greater than the overall average amount across all orders. This helps the manager establish which customers are spending above average. With this information, they could cater to those specific customers by offering more loyalty points, discounts, or deals to keep them engaged.  
+
 9. Percentage of customers participating in the loyalty program vs. not participating (complex) ![Query9](Query9.jpg)
 Query 9 shows the total number of customers that have been to Tapioca Chews, the percentage who are part of the loyalty program, and the percentage of those who aren’t. From a managerial perspective, this helps evaluate how effective the loyalty program is for customers. Since we have a low percentage for those in the loyalty program, the manager might look for ways to promote and improve this program so that more customers are encouraged to join.
+
 10. Revenue contribution by drink category (complex) ![Query10](Query10.jpg)
 Query 10 lists out the drinks by their category, the total amount they have earned for the shop, and the percentage that amount is to the overall revenue of Tapioca Chews. This query is important as it allows the owners to identify the most popular drinks to better prepare their inventory for the future.
 # Data Dictionary
