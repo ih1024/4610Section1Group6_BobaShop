@@ -41,6 +41,7 @@ At the end of the order, we expect payments, which lead to the creation of the P
 
 
 # SQL Queries 
+![Query Features](QueryFeatures.png)
 1. List number of employees under each manager and how much revenue they generated (complex) ![Query 1](Query1.png) 
 Query 1 lets the owners see the performance of their managers and how much revenue their team has generated over a lifetime.
 2. List Drinks in order of most to least popular (simple) ![Query 2](Query2.png) 
