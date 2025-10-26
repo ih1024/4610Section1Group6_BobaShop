@@ -4,7 +4,7 @@
 # Team Members 
 1. Jay Tran
 2. Sulema Gonzalez [@sulemagonzalez90](https://github.com/sulemagonzalez90)
-3. Iris Huang [@ih1024](https://github.com/ih1024)
+3. Iris Huang
 4. Abby Simmavanh [@asmmi27](https://github.com/asmmi27)
 5. Julia Tardy
 
