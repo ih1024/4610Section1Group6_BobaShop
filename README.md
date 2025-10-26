@@ -5,7 +5,7 @@
 1. Jay Tran
 2. Sulema Gonzalez [@sulemagonzalez90](https://github.com/sulemagonzalez90)
 3. Iris Huang
-4. Abby Simmavanh
+4. Abby Simmavanh [@asmmi27](https://github.com/asmmi27)
 5. Julia Tardy
 
 # Scenario
